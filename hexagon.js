@@ -1,7 +1,7 @@
 /**
  * @license http://creativecommons.org/licenses/by-sa/4.0/ Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
  * @author  Mustapha Mekhatri
- * @version 1.0.9
+ * @version 1.0.0
  */
 
 // JSLint options:
