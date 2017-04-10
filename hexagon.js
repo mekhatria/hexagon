@@ -7,7 +7,6 @@
 // JSLint options:
 /*global Highcharts, window*/
 
-(function (H) {
 Highcharts.SVGRenderer.prototype.symbols.hexagon = function(x, y, w, h) {
   return [
     'M', x, y + h / 2,
@@ -21,5 +20,4 @@ Highcharts.SVGRenderer.prototype.symbols.hexagon = function(x, y, w, h) {
     x, y + h / 2
 
   ];
-};  
-}(Highcharts));
+}; 
