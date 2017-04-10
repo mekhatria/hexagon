@@ -1,11 +1,13 @@
 /**
  * @license http://creativecommons.org/licenses/by-sa/4.0/ Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
- * @author  Mustapha Mekhatria
- * @version 1.0.0
+ * @author  Mustapha Mekhatri
+ * @version 1.0.9
  */
 
 // JSLint options:
 /*global Highcharts, window*/
+
+(function (H) {
 
 Highcharts.SVGRenderer.prototype.symbols.hexagon = function(x, y, w, h) {
   return [
@@ -21,3 +23,4 @@ Highcharts.SVGRenderer.prototype.symbols.hexagon = function(x, y, w, h) {
 
   ];
 }; 
+}(Highcharts));
