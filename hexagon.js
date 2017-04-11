@@ -1,6 +1,6 @@
 /**
  * @license http://creativecommons.org/licenses/by-sa/4.0/ Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
- * @author  Mustapha Mekhatri
+ * @author  Mustapha Mekhatria
  * @version 1.0.0
  */
 
